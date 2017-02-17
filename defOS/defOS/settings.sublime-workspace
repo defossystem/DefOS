@@ -1,0 +1,212 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"auto_form"
+			],
+			[
+				"c",
+				"context"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/elvis/Desktop/projeto/website/templates/evento.html",
+		"/home/elvis/Desktop/projeto/website/templates/saude.html",
+		"/home/elvis/Desktop/projeto/website/templates/empresarial.html",
+		"/home/elvis/Desktop/projeto/website/templates/vida.html",
+		"/home/elvis/Desktop/projeto/website/templates/auto.html",
+		"/home/elvis/Desktop/projeto/website/templates/index.html",
+		"/home/elvis/Desktop/projeto/website/templates/viagem.html",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/urls.py",
+		"/home/elvis/Desktop/projeto/website/website/settings.py",
+		"/home/elvis/Desktop/projeto/website/templates/template_formulario.html",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/static/twist/css/bootstrap.css",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/static/twist/css/style.css",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/models.py",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/views.py",
+		"/home/elvis/Desktop/projeto/website/viacorrectasite/static/twist/css/style.css.map",
+		"/home/elvis/Desktop/projeto/website/website/urls.py",
+		"/home/elvis/Desktop/projeto/website/manage.py",
+		"/home/elvis/Desktop/projeto/myvenv/src/shortner/admin.py",
+		"/home/elvis/Desktop/projeto/myvenv/src/mysite/settings.py",
+		"/home/elvis/Desktop/projeto/myvenv/src/shortner/models.py",
+		"/home/elvis/Desktop/projeto/.gitignore",
+		"/home/elvis/Desktop/projeto/mysite/templates/index.html",
+		"/home/elvis/Desktop/projeto/mysite/mysite/urls.py",
+		"/home/elvis/Desktop/projeto/mysite/mysite/settings.py",
+		"/home/elvis/Desktop/projeto/mysite/viacorrectasite/views.py",
+		"/home/elvis/Desktop/projeto/mysite/viacorrectasite/urls.py",
+		"/home/elvis/Desktop/projeto/mysite/viacorrectasite/models.py",
+		"/home/elvis/Desktop/projeto/mysite/manage.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"residencial",
+			"transporte",
+			"residencial",
+			"auto",
+			"box-shadow",
+			"box-sh",
+			"fluid-container",
+			"box-shadow",
+			"nav",
+			"shadow",
+			"nav",
+			"fluid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
